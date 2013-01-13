@@ -1,0 +1,5 @@
+This script simulates the photograph created by a x-ray scattering imaging technique in which a crystal is rotated while being penetrated by x-rays ("Bragg method", in German "Drehkristallverfahren")
+You can learn more about this here: http://www.mx.iucr.org/iucr-top/comm/cteach/pamphlets/2/node10.html#SECTION00063100000000000000
+
+Please note that the code is partly in German (some class names etc.)
+
